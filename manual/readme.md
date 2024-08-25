@@ -5,6 +5,11 @@
         Welcome to myShell, a user-friendly UNIX-like shell designed to facilitate command execution, I/O redirection, background process management, and environment interaction. 
         This manual aims to provide guidance on myShell's functionality and usage.
 
+## Operation
+        Run the `Make` command once in the top-level folder 'myshell',
+        Change Directory to bin and excecute the myShell binary file youve just created.
+        If youd like to clear this and remove the excecutable use `Make clean`
+
 ## Definitions 
         internal commands: 
             cd, clr, dir, environ, echo, help, pause, quit.
